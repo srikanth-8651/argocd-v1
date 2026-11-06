@@ -5,7 +5,7 @@ metadata:
   namespace: roboshop-dev
   # labels related to deployment resource
   labels:
-    project: roboshop
+    project: roboshop  
     tier: db
     component: mongodb
 spec:
