@@ -11,7 +11,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/srikanth-865/catalogue-config.git
+    repoURL: https://github.com/srikanth-8651/catalogue-config.git
     targetRevision: main # chart-version
     path: .
     helm:
